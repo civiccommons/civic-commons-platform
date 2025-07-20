@@ -8,5 +8,3 @@ Open-source civic platform for local ownership, governance, and collective decis
 - OCR: Tesseract.js
 - Testing: Jest, React Testing Library
 - Build Tool: Next.js
-
-> **Note:** For new projects, consider using Vite or Next.js for improved security and performance. This project currently uses Create React App for compatibility.
