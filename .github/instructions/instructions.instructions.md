@@ -1,0 +1,1 @@
+Use markdown formatting for any text in the --body section  when using the command 'gh issue' for github CLI.
